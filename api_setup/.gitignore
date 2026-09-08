@@ -1,0 +1,4 @@
+# API 키가 담긴 실제 .env 파일은 절대 커밋하지 않는다
+.env
+*.env
+!.env.template
